@@ -1,0 +1,42 @@
+/*quotes*/
+.sqs-block .sqs-block-content blockquote {
+  color: #005ab6;
+}
+.quote-block .source {
+  color: #003f80;
+}
+blockquote {
+     padding: 0px 0px 30px 0px;
+ }
+
+/*additional fonts*/
+h4 {
+   font-family: "proxima-nova", sans-serif;
+   font-weight: 600;
+   font-size: 15px;
+   line-height: 0em;
+   color: #2c2c2c;
+ }
+
+/*resume*/
+.jw-header {
+  text-transform: uppercase;
+  font-size: 60px;
+}
+
+.jw-subheader-color {
+  color: #bf0000;
+  font-weight: 500;
+  line-height: 0.1em;
+}
+
+.section-header-color {
+  text-transform: uppercase;
+  font-size: 15px;
+  color: #bf0000;
+}
+
+.section-subheader-color {
+  font-weight: 600;
+  color: #9d9d9d;
+}
