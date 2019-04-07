@@ -32,4 +32,5 @@ h4 {
    font-family: roboto;
    text-transform: capitalize;
    font-size: 11pt;
+   letter-spacing: 0.05em;
  }
