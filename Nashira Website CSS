@@ -30,7 +30,23 @@ h4 {
 
  .newsletter-form-button-label{
    font-family: roboto;
+  
+/* Mobile Overrides */
+@media only screen and (max-width: 640px) {
+     .Site {
+         margin-top: -90px;
+     }
+ }
+
    text-transform: capitalize;
    font-size: 11pt;
    letter-spacing: 0.05em;
+ }
+
+/* Hyphens */
+ p, h1, h2, h3, h4 {
+   -webkit-hyphens: manual !important;
+      -moz-hyphens: manual !important;
+       -ms-hyphens: manual !important;
+           hyphens: manual !important;
  }

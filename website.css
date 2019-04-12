@@ -18,6 +18,14 @@ h4 {
    color: #2c2c2c;
  }
 
+h5 {
+   font-family: "proxima-nova", sans-serif;
+   font-weight: 600;
+   font-size: 12px;
+   text-transform: uppercase;
+   color: #2c2c2c;
+ }
+
 /*resume style sheets*/
 .jw-header {
   text-transform: uppercase;
