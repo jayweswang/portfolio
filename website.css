@@ -24,6 +24,15 @@ h5 {
    font-size: 12px;
    text-transform: uppercase;
    color: #2c2c2c;
+
+ }
+
+ h6 {
+   font-family: "proxima-nova", sans-serif;
+   font-weight: 200;
+   font-size: 14px;
+   color: #2c2c2c;
+   margin-top:-25px;
  }
 
 /*resume style sheets*/
